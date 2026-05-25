@@ -10,10 +10,6 @@ setting. The **Language-Aware Skeleton Exploration Framework (LASEF)** varies th
 *language* of a reasoning skeleton — while fixing its structure and format — to
 measure how it affects multilingual math reasoning.
 
-<p align="center">
-  <img src="assets/framework_overview.png" width="720" alt="LASEF framework overview"/>
-</p>
-
 Anonymous preview during review: <https://anonymous.4open.science/r/LASEF-5EA5/>
 
 ---
