@@ -188,17 +188,5 @@ archive (see the [anonymous mirror](https://anonymous.4open.science/r/LASEF-5EA5
 and unpack it into `data/results/`. The processed heatmaps under `figure/` are
 also regenerated locally via `analysis/plot_heatmap.py`.
 
----
-
-## Citation
-
-```bibtex
-@inproceedings{lasef2026,
-  title     = {Which Language Should a Skeleton Speak? Language Choices in Multilingual Reasoning},
-  author    = {Anonymous},
-  booktitle = {Proceedings of EMNLP 2026},
-  year      = {2026}
-}
-```
 
 Released under the [MIT License](LICENSE).
