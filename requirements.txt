@@ -1,0 +1,24 @@
+# Core inference
+vllm>=0.6.0
+torch>=2.4.0
+transformers>=4.45.0
+datasets>=2.20.0
+
+# Analysis & figures
+pandas>=2.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Language identification (fastText lid.176)
+fasttext-wheel>=0.9.2
+
+# Math answer verification (correctness scoring in plot_heatmap.py)
+math-verify>=0.5.0
+
+# Utilities
+tqdm>=4.66.0
+
+# Notebooks
+jupyter

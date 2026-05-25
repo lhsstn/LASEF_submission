@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+.lasef/
+.fasttext/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# fastText language-ID model (download separately, see README)
+lid.176.bin
+*.bin
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Raw model outputs: several GB with files > 100 MB (GitHub's hard limit), so
+# they are NOT tracked. Regenerate with LASEF.sh, or host them externally and
+# add a download step (see "Data" in README.md). Local input benchmarks under
+# data/test_data/ ARE tracked.
+data/results/
+
+# Heatmaps / figures produced by analysis scripts (regenerate locally).
+figure/*
+!figure/.gitkeep
