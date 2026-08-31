@@ -9,8 +9,6 @@ structure LLM reasoning, but prior work assumes an English-centric setting. The
 of a reasoning skeleton — while fixing its structure and format — to measure how
 it affects multilingual math reasoning.
 
-Anonymous preview during review: <https://anonymous.4open.science/r/LASEF-5EA5/>
-
 ---
 
 ## TL;DR
